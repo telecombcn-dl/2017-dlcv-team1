@@ -1,0 +1,11 @@
+name: classifica
+title: Classifica
+account: francescb
+server: shinyapps.io
+appId: 192461
+bundleId: 882838
+url: https://francescb.shinyapps.io/classifica/
+when: 1498508023.32446
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|saveddf.RData

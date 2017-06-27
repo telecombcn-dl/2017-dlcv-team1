@@ -1,0 +1,11 @@
+name: image_classifier
+title:
+account: francescb
+server: shinyapps.io
+appId: 192460
+bundleId: 882834
+url: https://francescb.shinyapps.io/image_classifier/
+when: 1498507721.05551
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|inception-v3.tar.gz|saveddf.RData|model/preprocessing.py
