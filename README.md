@@ -29,6 +29,7 @@ The fourth tasks uses the previous ideas and techniques to improve the classific
 # Task 5
 
 In the fifth task we generated an Image Classifier using the Inception V3 model, furthermore we generated a user interface to allow the users upload images while the system classifies them showing the class label and its predicted probability.
+To be able to execute this task it is needed to have R and the Jupyter R kernel installed, as well as the packages used in it.
 
 
 
