@@ -3,7 +3,7 @@
 
 
 
-| ![Dídac Surís][image-didac] | ![Francesc Busquet][image-francesc] | ![Ricardo Gutierrez][image-ricardo] | ![Francisco Herranz][image-francisco] | 
+| ![Dídac Surís][image-didac] | ![Francesc Busquet][image-francesc] | ![Ricardo García][image-ricardo] | ![Francisco Herranz][image-francisco] | 
 | :---: | :---: | :---: | :---: |
 | Dídac Surís | Francesc Busquet | Ricardo Gutierrez | Francisco Herranz | 
 
