@@ -40,4 +40,5 @@ To be able to execute this task it is needed to have R and the Jupyter R kernel 
 [image-ricardo]: http://i.imgur.com/WAy0AbA.png "Ricardo Gutierrez"
 [image-francisco]: https://i.imgur.com/dzdhyk5.png "Francisco Herranz"
 
-
+You can access our web through: 
+https://surisdi.github.io/
